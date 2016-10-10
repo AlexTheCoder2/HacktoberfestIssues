@@ -1,7 +1,7 @@
 #CSci4061 F2016 Assignment 1
 *login: sundi024*
 
-*date: 09/26/16*
+*date: 10/07/1994*
 
 *name: Brent Higgins, Garrett Sundin, Yu Fang*
 
