@@ -27,4 +27,4 @@
 
 4.) Run command `./make4061 [OPTIONS] [FILE]`
 
-5.) Have fun!
+5.) Have fun! ;)
