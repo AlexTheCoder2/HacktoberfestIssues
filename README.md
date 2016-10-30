@@ -26,3 +26,5 @@
 3.) Navigate to directory containing makefile
 
 4.) Run command `./make4061 [OPTIONS] [FILE]`
+
+5.) Have fun!
